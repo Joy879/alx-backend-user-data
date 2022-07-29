@@ -1,7 +1,7 @@
 # 0x07. Session authentication
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
 :bust_in_silhouette: by Guillaume, CTO at Holberton School  
-:copyright: **[ALX - Holberton School](https://alx-intranet.hbtn.io/)**  
+:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
 :bookmark:
 
 ## Background Context
@@ -27,7 +27,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * A ```README.md``` file.
 
 ## Tasks
-* [x] 0. Empity Session
+* [x] 0. Et moi et moi et moi!
 * [x] 1. Empty session
 * [x] 2. Create a session
 * [x] 3. User ID from Session ID
@@ -40,5 +40,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [ ] 10. Sessions in database
 
 ## Software engineer
-Asmamaw Yismaw Baylie  
-:octocat: [GitHub](https://github.com/asmeyb/)
+Javier Andrés Garzón Patarroyo  
+:octocat: [GitHub](https://github.com/javierandresgp/)
