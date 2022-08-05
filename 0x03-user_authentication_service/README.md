@@ -1,6 +1,8 @@
 # 0x03-user_authentication_service
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/4cb3c8c607afc1d1582d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220805T002206Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=195fd70788826b355c21c8028bfb9e46221243bb4d839ec2fa7ab7141af5d861)
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/4cb3c8c607afc1d1582d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220805T003721Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=546bb09a387757d90db659e53e5e7a4e14b892065c5bdb8623c5a2c4a689100f)
+[](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/4cb3c8c607afc1d1582d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220805T003721Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=546bb09a387757d90db659e53e5e7a4e14b892065c5bdb8623c5a2c4a689100f)
+
 ## Description
 
 ### Learning Objectives
