@@ -39,6 +39,3 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [ ] 9. Expiration?
 * [ ] 10. Sessions in database
 
-## Software engineer
-Asmamaw Yismaw Baylie  
-:octocat: [GitHub](https://github.com/asmeyb/)
